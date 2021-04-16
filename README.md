@@ -2,6 +2,3 @@
 
 ### Other form coding, I like to play games too and watch youtube. 
 
-<!--
-**norbcodes/norbcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
