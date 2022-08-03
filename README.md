@@ -2,5 +2,3 @@
 
 ### Other from coding, I like to play games too and watch youtube. 
 ### My Steam: https://steamcommunity.com/id/therealnorb/
-
-### exit()
