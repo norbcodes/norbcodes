@@ -8,7 +8,6 @@ or a youtube video, depends if i'm in the mood for that.<br>
 ------------------------------------<br>
 My Steam account: https://steamcommunity.com/id/therealnorb/<br>
 My Youtube channel: https://www.youtube.com/channel/UC-WouWX9ricZEwv6qV8UDaw<br>
-My Discord server: https://discord.gg/CUQVybuC9k<br>
 My Doomworld account: https://www.doomworld.com/profile/35825-norb/<br>
 ------------------------------------
 </p>
