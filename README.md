@@ -1,4 +1,4 @@
-<h1>Hello!</h1>
+<h1>Hello! <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/sk.svg" alt="Slovakia :3" style="width:35px" title="SLOVAKIA!!!!!"></img>  <img src="https://github.com/joypixels/pride-emoji-flags/blob/master/svg/pansexual-flag.svg" alt="Pansexual :3" style="width:28px" title="Pansexual :3"></img></h1>
 <p>
 Hello, i'm Norb. I love programming, and I'm interested in Python and C++.
 <br><br>
