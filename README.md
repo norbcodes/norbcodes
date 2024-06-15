@@ -10,9 +10,19 @@ or a youtube video, depends if i'm in the mood for that.<br>
 <img src="https://github-readme-stats.vercel.app/api?username=norbcodes&show=prs_merged&show_icons=true&bg_color=79,6699FF,800055&title_color=000000&text_color=000000&icon_color=4D004D&border_radius=15.8&text_bold"></img>
 <h1>Find me on</h1>
 <p>
-My Steam account: https://steamcommunity.com/id/realnorb3695/<br>
-My Youtube channel: https://www.youtube.com/channel/UC-WouWX9ricZEwv6qV8UDaw<br>
-My Doomworld account: https://www.doomworld.com/profile/35825-norb/<br>
+<table>
+  <tr>
+    <th>
+      <a href="https://steamcommunity.com/id/realnorb3695/">Steam Account</a>
+    </th>
+    <th>
+      <a href="https://www.youtube.com/channel/UC-WouWX9ricZEwv6qV8UDaw">Youtube Channel</a>
+    </th>
+    <th>
+      <a href="https://www.doomworld.com/profile/35825-norb/">Doomworld!</a>
+    </th>
+  </tr>
+</table>
 </p>
 <h1>C++ my beloved</h1>
 <p>(I use python the most tho)</p>
