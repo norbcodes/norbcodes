@@ -24,6 +24,3 @@ or a youtube video, depends if i'm in the mood for that.<br>
   </tr>
 </table>
 </p>
-<h1>C++ my beloved</h1>
-<p>(I use python the most tho)</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norbcodes&langs_count=8&layout=donut&bg_color=48,E566FF,003CB3&title_color=000000&text_color=000000&icon_color=4D004D&border_radius=15.8&text_bold"></img>
