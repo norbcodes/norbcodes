@@ -25,6 +25,9 @@ I paint my nails black because it's metal af :3<br>
     <th>
       <a href="https://www.planetminecraft.com/member/norb/">Planet Minecraft</a>
     </th>
+    <th>
+      <a href="https://norbcodes.itch.io/">itch.io</a>
+    </th>
   </tr>
 </table>
 </p>
