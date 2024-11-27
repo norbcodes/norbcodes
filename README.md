@@ -22,6 +22,9 @@ I paint my nails black because it's metal af :3<br>
     <th>
       <a href="https://www.doomworld.com/profile/35825-norb/">Doomworld!</a>
     </th>
+    <th>
+      <a href="https://www.planetminecraft.com/member/norb/">Planet Minecraft</a>
+    </th>
   </tr>
 </table>
 </p>
