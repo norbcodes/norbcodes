@@ -7,8 +7,6 @@ or a youtube video, depends if i'm in the mood for that.<br>
 I paint my nails black because it's metal af :3<br>
 <a href="https://github.com/MF366-Coding" title="DO IT">Check this guy out :D</a>
 </p>
-<h1>Statsssss</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=norbcodes&show=prs_merged&show_icons=true&bg_color=79,6699FF,800055&title_color=000000&text_color=000000&icon_color=4D004D&border_radius=15.8&text_bold"></img>
 <h1>Find me on</h1>
 <p>
 <table>
