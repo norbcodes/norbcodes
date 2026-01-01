@@ -5,7 +5,7 @@ Hello, i'm Norb. I love programming, and I'm interested in Python and C++.
 Other from coding, I like to play games too and watch youtube.<br>Sometimes I spit out a Doom map/mod or a Supaplex map,<br>
 or a youtube video, depends if i'm in the mood for that.<br>
 I paint my nails black because it's metal af :3<br>
-<a href="https://github.com/MF366-Coding" title="DO IT">Check this guy out :D</a>
+<a href="https://github.com/matthew-dev0" title="DO IT">Check this guy out :D</a>
 </p>
 <h1>Find me on</h1>
 <p>
