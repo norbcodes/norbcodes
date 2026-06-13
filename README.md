@@ -6,6 +6,7 @@ Other from coding, I like to play games too and watch youtube.<br>Sometimes I sp
 or a youtube video, depends if i'm in the mood for that.<br>
 I paint my nails black because it's metal af :3<br>
 <a href="https://github.com/mf366-dev" title="DO IT">Check this guy out :D</a>
+<br>I love Uma Musume so much (<a href="https://x.com/uma_EMsan/status/2065371869344313849">my pfp</a>)
 </p>
 <h1>Find me on</h1>
 <p>
