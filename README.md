@@ -1,6 +1,6 @@
-<h1>Hello! <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/sk.svg" alt="SLOVAKIA!!!!!" style="width:35px" title="SLOVAKIA!!!!!"></img> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python dev :)" title="Python dev :)" style="width:35px;height=20px"></img>  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" alt="C++ my beloved" title="C++ my beloved" style="width:35px;height=20px"></img></h1>
+<h1>Hello! <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/sk.svg" alt="SLOVAKIA!!!!!" style="width:35px" title="SLOVAKIA!!!!!"></img> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" alt="Python dev :)" title="Python dev :)" style="width:35px;height=20px"></img>  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" alt="C++ my beloved" title="C++ my beloved" style="width:35px;height=20px"></img> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_c.svg" alt="polyamorous relationship lol" title="polyamorous relationship lol" style="width:35px;height=20px"></img></h1>
 <p>
-Hello, i'm Norb. I love programming, and I'm interested in Python and C++.
+Hello, i'm Norb. I love programming, and I'm interested in Python, C++, C and Haskell.
 <br><br>
 Other from coding, I like to play games too and watch youtube.<br>Sometimes I spit out a Doom map/mod or a Supaplex map,<br>
 or a youtube video, depends if i'm in the mood for that.<br>
