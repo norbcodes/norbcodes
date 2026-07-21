@@ -5,7 +5,7 @@ Hello, i'm Norb. I love programming, and I'm interested in Python, C++, C and Ha
 Other from coding, I like to play games too and watch youtube.<br>Sometimes I spit out a Doom map/mod or a Supaplex map,<br>
 or a youtube video, depends if i'm in the mood for that.<br>
 I paint my nails black because it's metal af :3<br>
-<br>I love Uma Musume so much (<a href="https://x.com/uma_EMsan/status/2065371869344313849">my pfp</a>)
+I love Uma Musume so much (<a href="https://x.com/uma_EMsan/status/2065371869344313849">my pfp</a>)
 </p>
 <h1>Find me on</h1>
 <p>
